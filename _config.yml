@@ -1,5 +1,5 @@
 BASE_PATH:
-SITE_PATH: http://www.zwlme.com
+SITE_PATH: http://vagabondize.github.io
 qiniu: http://zhuowenli.qiniudn.com
 
 paginate: 30 # pagination based on number of posts
@@ -7,20 +7,20 @@ paginate_path: "page:num" #pagination generated sub path format
 encoding: utf-8
 permalink: /:categories/:title.html
 
-markdown: redcarpet
+markdown: kramdown
 
 # highlighter: rouge
 highlighter: pygments
 
-name: 卓文理
-title: 卓文理
+name: 李俊秋
+title: 李俊秋
 
 author:
-  name: 卓文理
-  email: 531840344@qq.com
-  github: zhuowenli
-  twitter: vnnlee zhuo
-  bio: 我在这里，高清有码！
+  name: 李俊秋
+  email: ancient2now@163.com
+  github: vagabondize
+  twitter: vagabondize
+  bio: 暂无！
 
 rss_path: rss.xml
 
