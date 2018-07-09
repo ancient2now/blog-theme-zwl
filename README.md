@@ -1,15 +1,13 @@
-# www.zhuowenli.com
+# www.akikun.com
 
-> [3.0正在开发中，敬请期待...](https://github.com/zhuowenli/zhuowenli.github.io/tree/3.0)
-
-这是[www.zhuowenli.com](http://www.zhuowenli.com) 这个博客站的所有代码。
+这是[www.akikun.com](http://www.akikun.com) 这个博客站的所有代码。
 
 欢迎大家star或者fork。
 
 如果遇到什么问题，你可以随时：
 
-- [Issues](https://github.com/zhuowenli/zhuowenli.github.io/issues)
-- [Pull Requests](https://github.com/zhuowenli/zhuowenli.github.io/pulls)
+- [Issues](https://github.com/vagabondize/vagabondize.github.io/issues)
+- [Pull Requests](https://github.com/vagabondize/vagabondize.github.io/pulls)
 
 ## 环境搭建
 
@@ -30,11 +28,11 @@ jekyll本身基于Ruby开发，因此，想要在本地构建一个jekyll的环�
 
 clone项目到本地
 
-`$ git clone https://github.com/zhuowenli/zhuowenli.github.io.git`
+`$ git clone https://github.com/vagabondize/vagabondize.github.io.git`
 
-进入zhuowenli.github.io这个文件夹
+vagabondize.github.io这个文件夹
 
-`$ cd zhuowenli.github.io`
+`$ cd vagabondize.github.io`
 
 执行bundle命令下载依赖资源：
 
