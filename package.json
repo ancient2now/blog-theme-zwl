@@ -1,24 +1,24 @@
 {
-  "name": "zhuowenli.github.io",
+  "name": "vagabondize.github.io",
   "version": "1.0.0",
-  "description": "这是[www.zhuowenli.com](http://www.zhuowenli.com) 这个博客站的所有代码。",
+  "description": "这是[www.akikun.com](http://www.akikun.com) 这个博客站的所有代码。",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhuowenli/zhuowenli.github.io.git"
+    "url": "git+https://github.com/vagabondize/vagabondize.github.io.git"
   },
   "keywords": [
-    "zhuowenli"
+    "lijunqiu", "vagabondize"
   ],
-  "author": "zhuowenli",
+  "author": "vagabondize",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhuowenli/zhuowenli.github.io/issues"
+    "url": "https://github.com/vagabondize/vagabondize.github.io/issues"
   },
-  "homepage": "https://github.com/zhuowenli/zhuowenli.github.io/",
+  "homepage": "https://github.com/vagabondize/vagabondize.github.io/",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-plumber": "^1.0.1",
