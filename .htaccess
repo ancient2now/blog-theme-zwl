@@ -1,4 +1,3 @@
 RewriteEngine On
-RewriteCond %{http_host} ^(www.)?zwlme.com$ [NC,OR]
-RewriteCond %{http_host} ^zhuowenli.com$ [NC]
-RewriteRule ^(.*)$ http://www.zhuowenli.com/$1 [R=301,L]
+RewriteCond %{http_host} ^(www.)?akikun.com$ [NC,OR]
+RewriteRule ^(.*)$ http://www.akikun.com/$1 [R=301,L]
